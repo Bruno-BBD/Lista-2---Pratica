@@ -16,7 +16,9 @@ int main(){
       b++;
     }
 
-    if(c == a){
+   if(a == 0){
+    printf("O numero %d nao eh perfeito.",a);
+    }else if(c == a){
     printf("O numero %d eh perfeito.",a);
     }else{
     printf("O numero %d nao eh perfeito.",a);
