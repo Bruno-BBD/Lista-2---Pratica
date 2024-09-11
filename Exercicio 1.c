@@ -6,7 +6,7 @@ int main(){
 
     printf("Verificador de numeros perfeitos.\n\n");
 
-    printf("Digite um numero:");
+    printf("Digite um numero inteiro e positivo:");
     scanf("%d", &a);
 
     while(a>b){
